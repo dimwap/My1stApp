@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaimoX</string>
+    <string name="poisk">ПОИСК</string>
+    <string name="art">Артикул</string>
+</resources>
